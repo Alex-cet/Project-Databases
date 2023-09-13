@@ -1,0 +1,62 @@
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+230514 19:12:38 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+230514 19:12:38 [Note] Event Scheduler: Loaded 0 events
+230514 19:12:38 [Note] D:\Ceva Facult\AN 2\Lab DB\Lab8\mowes_portable\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.5.8'  socket: ''  port: 3306  MySQL Community Server (GPL)
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+230518 21:20:22 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+230518 21:20:22 [Note] Event Scheduler: Loaded 0 events
+230518 21:20:22 [Note] D:\Ceva Facult\AN 2\Lab DB\Lab8\mowes_portable\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.5.8'  socket: ''  port: 3306  MySQL Community Server (GPL)
+230518 21:23:02 [ERROR] Incorrect definition of table mysql.proc: expected column 'comment' at position 15 to have type text, found type char(64).
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+230831 19:27:48 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+230831 19:27:48 [Note] Event Scheduler: Loaded 0 events
+230831 19:27:48 [Note] D:\Ce ar trbui sa pastrez\Wellcode\GitHub Projects\Project-Databases\mowes_portable\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.5.8'  socket: ''  port: 3306  MySQL Community Server (GPL)
+230831 19:28:06 [ERROR] Incorrect definition of table mysql.proc: expected column 'comment' at position 15 to have type text, found type char(64).

@@ -1,0 +1,43 @@
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+230506 12:25:57 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+230506 12:25:57 [Note] Event Scheduler: Loaded 0 events
+230506 12:25:57 [Note] D:\Lab DB\Lab8\mowes_portable\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.5.8'  socket: ''  port: 3306  MySQL Community Server (GPL)
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'events_waits_current' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'events_waits_history' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'events_waits_history_long' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'setup_consumers' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'setup_instruments' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'setup_timers' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'performance_timers' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'threads' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_thread_by_event_name' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'events_waits_summary_by_instance' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'events_waits_summary_global_by_event_name' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'file_summary_by_event_name' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'file_summary_by_instance' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'mutex_instances' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'rwlock_instances' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'cond_instances' has the wrong structure
+230913 14:24:49 [ERROR] Native table 'performance_schema'.'file_instances' has the wrong structure
+230913 14:24:49 [Note] Event Scheduler: Loaded 0 events
+230913 14:24:49 [Note] D:\Composer\app\database\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.5.8'  socket: ''  port: 3306  MySQL Community Server (GPL)
+230913 14:25:02 [Note] D:\Composer\app\database\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+230913 14:25:02 [Note] Event Scheduler: Purging the queue. 0 events
