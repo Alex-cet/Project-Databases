@@ -14,4 +14,4 @@ This project was made as an assignment for the Databases subject within the Facu
   7. A "My Account" panel where the user can see all its account details (email, full name, phone number, username, password) 
   8. A Track Order panel where the user will be able to search its order by specifying the order number and also updating the "Order Status". When the user first places an order, the Status will be "Processing..." And after pressing the "Refresh Order Status" button the status will become "Delivered!"
 
-This project was made using HTML, CSS, PHP and MySQL. As the requirement was to run it only on a local server, some of the functionalities were minimal. The project is hosted locally through Mowes Portable.
+This project was made using Laravel with HTML, CSS, PHP, Blade and MySQL. As the requirement was to run it only on a local server, some of the functionalities were minimal. The project is hosted locally through Mowes Portable.
